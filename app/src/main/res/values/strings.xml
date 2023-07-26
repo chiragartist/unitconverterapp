@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">unit converter</string>
+    <string name="error_message">Please enter a Valid number</string>
+</resources>
